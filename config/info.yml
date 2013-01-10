@@ -1,0 +1,15 @@
+# Plugin information
+name: "Database Base"
+description: "Clases base, para el acceso a datos (MySQL, Postgre, MongoDb, etc), dependiendo de los modelos que usted tenga instalados."
+version: "2.0"
+framework_version: "2.0"
+dependencies: ""
+notes: ""
+# Author information
+author: "Paul marclay"
+email: "paul.eduardo.marclay@gmail.com"
+site: ""
+# Legal information
+company: "Dolem Labs"
+copyright: "(c) 2012 - Paul Marclay"
+license: "GNU GENERAL PUBLIC LICENSE"
